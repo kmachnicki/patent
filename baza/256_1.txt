@@ -1,0 +1,5 @@
+X010
+Istotnymi czêœciami broni palnej s¹:
+szkielet broni, lufa, komora zamkowa, zamek, bezpiecznik
+szkielet broni, baskila, lufa z komor¹ nabojow¹, komora zamkowa, zamek oraz bêben nabojowy
+szkielet broni, baskila, lufa, komora zamkowa, magazynek

@@ -1,0 +1,5 @@
+X100
+Jakie czynnoœci nale¿y wykonaæ po komendzie "STOP!"
+bezzw³ocznie przerwaæ strzelanie
+wyj¹c magazynek i czekaæ na dalsze polecenia
+natychmiast roz³adowaæ broñ
