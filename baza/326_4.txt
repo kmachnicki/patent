@@ -1,0 +1,5 @@
+X001
+W œrodkach transportu publicznego, s³u¿¹cych do przewozów pasa¿erów, broñ przewozi siê:
+w stanie za³adowanym, bez amunicji w komorze nabojowej i w magazynkach nabojowych
+w stanie za³adowanym, z amunicj¹ w komorze nabojowej i nabojami w magazynkach nabojowych
+w stanie roz³adowanym, bez amunicji w komorze nabojowej i w magazynkach nabojowych

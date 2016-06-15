@@ -1,0 +1,5 @@
+X010
+Strzelectwo sportowe sk³ada siê z nastêpuj¹cych dyscyplin:
+strzelanie z broni krótkiej, strzelanie z broni d³ugiej, strzelanie do ruchomej tarczy, strzelanie do rzutków
+strzelanie z pistoletu, strzelanie z karabinu, strzelanie ze strzelby g³adkolufowej
+strzelanie z broni krótkiej, strzelanie z broni d³ugiej, strzelanie do ruchomej tarczy

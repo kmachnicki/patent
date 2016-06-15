@@ -1,0 +1,5 @@
+X100
+Na zawodach strzeleckich z broni krótkiej na 25 m, magazynek ³adujemy nabojami:
+po komendzie "£ADUJ"
+przed komend¹ "£ADUJ"
+w trakcie czasu przygotowawczego

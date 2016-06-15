@@ -1,0 +1,5 @@
+X001
+Jakie czynnoœci nale¿y wykonaæ po komendzie "ROZ£ADUJ!"?
+roz³adowaæ i schowaæ broñ
+wyj¹æ magazynek i trzymaæ broñ w pozycji "gotów"
+roz³adowaæ broñ, zabezpieczyæ j¹ i umieœciæ na stanowisku strzeleckim
