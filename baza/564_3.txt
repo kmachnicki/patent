@@ -1,0 +1,5 @@
+X100
+Jakie czynnosci nalezy wykonac po komendzie "LADUJ!":
+nale¿y za³adowaæ magazynek nabojami, nastêpnie w³o¿yæ go do broni, wprowadziæ pierwszy nabój do komory nabojowej i czekaæ na nastêpne komendy prowadz¹cego strzelanie
+wczeœniej za³adowany magazynek nale¿y w³o¿yæ do broni i czekaæ na komendê "START"
+nale¿y za³adowaæ broñ wprowadzaj¹c magazynek z nabojami do pistoletu i rozpocz¹æ strzelanie

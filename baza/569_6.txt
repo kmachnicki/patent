@@ -1,0 +1,5 @@
+X100
+Amunicja bocznego zap³onu jest to:
+amunicja, w której masa zap³onowa wprasowana jest bezpoœrednio w kryzê ³uski
+amunicja, w której masa zap³onowa znajduje siê w œrodku dna ³uski
+ka¿da amunicja o kalibrze mniejszym ni¿ 7,62 mm

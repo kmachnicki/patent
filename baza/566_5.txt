@@ -1,0 +1,5 @@
+X010
+Amunicja centralnego zap³onu jest to:
+amunicja, w której masa zap³onowa wprasowana jest bezpoœrednio w kryzê ³uski
+amunicja, w której masa zap³onowa znajduje siê w œrodku dna ³uski
+ka¿da amunicja o kalibrze wiêkszym ni¿ 5,6 mm
