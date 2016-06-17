@@ -1,0 +1,5 @@
+X010
+Czy Sad moze odstapic od wymierzenia kary w razie przekroczenia granicy obrony koniecznej:
+tak, gdy jej przekroczenie by³o usprawiedliwione okolicznosciami zamachu
+tak, gdy jej przekroczenie by³o wynikiem strachu lub wzburzenia usprawiedliwionego okolicznosciami zamachu
+nie

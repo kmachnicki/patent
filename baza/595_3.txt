@@ -1,0 +1,5 @@
+X100
+Czy prowadzacy strzelanie moze usunac ze strzelnicy osobe nie stosujaca sie do jego polecen:
+tak
+nie
+tak, ale tylko w przypadku gdy jest to osoba strzelajaca
