@@ -1,9 +1,5 @@
 X100
 Czy organy Policji maj¹ prawo zobowi¹zaæ posiadacza pozwolenia na broñ, poddaniu siê badaniom lekarskim i psychologicznym:
-tylko w przypadku, gdy istnieje uzasadnione podejrzenie, ¿e osoba taka wykazuje
-istotne zaburzenia funkcjonowania psychologicznego, uzale¿nienie od alkoholu lub
-substancji psychoaktywnych, ograniczon¹ sprawnoœæ psychofizyczn¹ oraz zaburzenia
-psychiczne, o których mowa w ustawie o ochronie zdrowia psychicznego
+tylko w przypadku, gdy istnieje uzasadnione podejrzenie, ¿e osoba taka wykazuje istotne zaburzenia funkcjonowania psychologicznego, uzale¿nienie od alkoholu lub substancji psychoaktywnych, ograniczon¹ sprawnoœæ psychofizyczn¹ oraz zaburzenia psychiczne, o których mowa w ustawie o ochronie zdrowia psychicznego
 nie
-tylko w przypadku, gdy osoba taka uzale¿niona jest od alkoholu i wykazuje zaburzenia
-funkcjonowania psychologicznego
+tylko w przypadku, gdy osoba taka uzale¿niona jest od alkoholu i wykazuje zaburzenia funkcjonowania psychologicznego
